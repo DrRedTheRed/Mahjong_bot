@@ -1,0 +1,17 @@
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: .\..\Libraries\src\stm32f10x_rtc.c
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../Libraries/inc/stm32f10x_rtc.h
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../CMSIS/CM3/DeviceSupport/ST/STM32F10x/stm32f10x.h
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../CMSIS/CM3/CoreSupport/core_cm3.h
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../CMSIS/CM3/DeviceSupport/ST/STM32F10x/system_stm32f10x.h
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../USER/includes/stm32f10x_conf.h
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../Libraries/inc/stm32f10x_adc.h
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../CMSIS/CM3/DeviceSupport/ST/STM32F10x/stm32f10x.h
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../Libraries/inc/stm32f10x_dma.h
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../Libraries/inc/stm32f10x_flash.h
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../Libraries/inc/stm32f10x_gpio.h
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../Libraries/inc/stm32f10x_i2c.h
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../Libraries/inc/stm32f10x_rcc.h
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../Libraries/inc/stm32f10x_spi.h
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../Libraries/inc/stm32f10x_tim.h
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../Libraries/inc/stm32f10x_usart.h
+.\build\YH_Project\__\Libraries\src\stm32f10x_rtc.o: ../Libraries/inc/misc.h

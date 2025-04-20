@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\24731\\Desktop\\Mahjong\\ckpt\\my_model"
+all_model_checkpoint_paths: "C:\\Users\\24731\\Desktop\\Mahjong\\ckpt\\my_model"
